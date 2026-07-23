@@ -177,6 +177,6 @@ DSA/
 
 ### ⭐ If you like this repository, don't forget to Star it!
 
-Made with ❤️ by **Nilakshi Choudhary**
+Made by **Nilakshi Choudhary**
 
 </p>
